@@ -2,17 +2,22 @@
 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Elastic_Stack-informational?style=flat&logo=elastic-stack&logoColor=white&color=2bbc8a)
 
+#### Languages
+![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=3c3c3c)
+![](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=3c3c3c)
+![](https://img.shields.io/badge/-GoLang-007d9c?style=flat&logo=go&logoColor=white)
+
+#### Development
+![](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/-Jupyter-F37726?style=flat&logo=jupyter&logoColor=white)
+
+#### Tools
+![](https://img.shields.io/badge/-Kubernetes-2E6CE6?logo=kubernetes&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Elastic_Stack-00BFB3?logo=elastic-stack&logoColor=white&style=flat)
 
 ## &#x1f4c8; GitHub Stats
 
