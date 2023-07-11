@@ -7,6 +7,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Distribute your Pytorch model in less than 20 lines of code](https://towardsdatascience.com/distribute-your-pytorch-model-in-less-than-20-lines-of-code-61a786e6e7b0?source=rss-373fc274978d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
