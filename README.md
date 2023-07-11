@@ -1,29 +1,25 @@
-[![Header](https://raw.githubusercontent.com/rensortino/rensortino/main/banner.png "Header")](https://some-url.dev/)
+<h1 align="center">Hi 👋, I'm Renato Sortino</h1>
+<h3 align="center">A PhD Student in Computer Vision</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rensortino&label=Profile%20views&color=0eb45e&style=flat" alt="rensortino" /> </p>
 
-## 🔧 Technologies & Tools
+- 🔭 I’m currently working on **Generative Models**
 
-#### Languages
-![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=3c3c3c)
-![](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=3c3c3c)
-![](https://img.shields.io/badge/-GoLang-007d9c?style=flat&logo=go&logoColor=white)
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-#### Development
-![](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/-Jupyter-F37726?style=flat&logo=jupyter&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/renatosortino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renatosortino" height="30" width="40" /></a>
+<a href="https://medium.com/@rensortino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rensortino" height="30" width="40" /></a>
+</p>
 
-#### Tools
-![](https://img.shields.io/badge/-Kubernetes-2E6CE6?logo=kubernetes&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-Elastic_Stack-00BFB3?logo=elastic-stack&logoColor=white&style=flat)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
 
-## &#x1f4c8; GitHub Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rensortino&show_icons=true&theme=dark&locale=en" alt="rensortino" /></p>
 
-<a href="https://github.com/rensortino/rensortino">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rensortino&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/rensortino/rensortino">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rensortino&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rensortino&theme=dark" alt="rensortino" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rensortino&show_icons=true&theme=dark&locale=en&layout=compact" alt="rensortino" /></p>
