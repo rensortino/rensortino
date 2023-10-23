@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renato Sortino</h1>
-<h3 align="center">A PhD Student in Computer Vision</h3>
+<h3 align="center">PhD Student in Computer Vision</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rensortino&label=Profile%20views&color=0eb45e&style=flat" alt="rensortino" /> </p>
 
