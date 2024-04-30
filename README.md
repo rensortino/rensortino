@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rensortino&label=Profile%20views&color=0eb45e&style=flat" alt="rensortino" /> </p>
 
-- 🔭 I’m currently working on **Generative Models**
+- 🔭 I’m currently working on **Diffusion Models for Data Augmentation**
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
