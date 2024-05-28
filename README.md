@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Renato Sortino</h1>
-<h3 align="center">PhD Student in Computer Vision</h3>
+<h3 align="center">Ph.D. in Computer Vision</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rensortino&label=Profile%20views&color=0eb45e&style=flat" alt="rensortino" /> </p>
 
-- 🔭 I’m currently working on **Diffusion Models for Data Augmentation**
+- 🔭 I’m currently working on **Diffusion Models for Dataset synthesis**
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
