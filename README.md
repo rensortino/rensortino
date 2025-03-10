@@ -1,5 +1,11 @@
 <h1 align="center">Renato Sortino, Ph.D.</h1>
-<h3 align="center">Research Engineer in Computer Vision @ <a href="https://www.cea.fr/english">CEA</a> </h3>
+<h4 align="center">Research Engineer in Computer Vision @ <a href="https://www.cea.fr/english">CEA</a> </h4>
+
+![Website Badge](https://img.shields.io/badge/rensortino.com-teal?style=for-the-badge&logo=arc&link=https%3A%2F%2Frensortino.com%2F)
+![HF Badge](https://img.shields.io/badge/Hugging_Face-black?style=for-the-badge&logo=huggingface&link=https%3A%2F%2Fhuggingface.co%2Frsortino)
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frenatosortino%2F)
+![Medium Badge](https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&link=https%3A%2F%2Fmedium.com%2F%40rensortino)
+![Static Badge](https://img.shields.io/badge/Google_Scholar-white?style=for-the-badge&logo=google-scholar&link=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DqFxl11AAAAAJ)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rensortino&label=Profile%20views&color=0eb45e&style=flat" alt="rensortino" /> </p>
 
@@ -10,16 +16,10 @@
 - [Distribute your Pytorch model in less than 20 lines of code](https://medium.com/towards-data-science/distribute-your-pytorch-model-in-less-than-20-lines-of-code-61a786e6e7b0?source=rss-373fc274978d------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/renatosortino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renatosortino" height="30" width="40" /></a>
-<a href="https://medium.com/@rensortino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rensortino" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40"/> </a> 
   <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> --> 
   <!-- <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> --> 
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
@@ -29,9 +29,10 @@
   <a href="https://slurm.schedmd.com/documentation.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/cncf/landscape/e2d8e24285929c030ff1095fbae885a3bf565011/hosted_logos/slurm.svg" alt="slurm" width="40" height="40"/> </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" alt="blender" width="40" height="40"/> </a> </p>
   
-
+<div style="display:flex;">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rensortino&show_icons=true&theme=dark&locale=en" alt="rensortino" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rensortino&theme=dark" alt="rensortino" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rensortino&theme=dark" alt="rensortino" /></p> -->
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rensortino&show_icons=true&theme=dark&locale=en&layout=compact" alt="rensortino" /></p>
+</div>
