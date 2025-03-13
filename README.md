@@ -13,7 +13,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Material Crafter: Generate textures in Blender with Diffusion Models](https://medium.com/@rensortino/material-crafter-generate-textures-in-blender-with-diffusion-models-87dc869d27a8?source=rss-373fc274978d------2)
 - [ColorizeNet: Stable Diffusion for Image Colorization](https://medium.com/@rensortino/colorizenet-stable-diffusion-for-image-colorization-bdc9c35121fa?source=rss-373fc274978d------2)
-- [Distribute your Pytorch model in less than 20 lines of code](https://medium.com/towards-data-science/distribute-your-pytorch-model-in-less-than-20-lines-of-code-61a786e6e7b0?source=rss-373fc274978d------2)
+- [Distribute your Pytorch model in less than 20 lines of code](https://medium.com/data-science/distribute-your-pytorch-model-in-less-than-20-lines-of-code-61a786e6e7b0?source=rss-373fc274978d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
