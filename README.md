@@ -20,10 +20,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rensortino&label=Profile%20views&color=0eb45e&style=flat" alt="rensortino" /> </p>
 
-<a style="text-decoration: none;" href="https://www.linkedin.com/in/renatosortino/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
-</a>
-
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Material Crafter: Generate textures in Blender with Diffusion Models](https://medium.com/@rensortino/material-crafter-generate-textures-in-blender-with-diffusion-models-87dc869d27a8?source=rss-373fc274978d------2)
