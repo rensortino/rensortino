@@ -1,5 +1,5 @@
 <h1 align="center">Renato Sortino, Ph.D.</h1>
-<h4 align="center">Research Engineer in Computer Vision @ <a href="https://www.cea.fr/english">CEA</a> </h4>
+<h4 align="center">Research Engineer in Computer Vision @ <a href="https://diffuse.ly/">Diffusely</a> </h4>
 
 ![Website Badge](https://img.shields.io/badge/rensortino.com-teal?style=for-the-badge&logo=arc&link=https%3A%2F%2Frensortino.com%2F)
 ![HF Badge](https://img.shields.io/badge/Hugging_Face-black?style=for-the-badge&logo=huggingface&link=https%3A%2F%2Fhuggingface.co%2Frsortino)
