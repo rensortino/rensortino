@@ -1,23 +1,28 @@
 <h1 align="center">Renato Sortino, Ph.D.</h1>
 <h4 align="center">Research Engineer in Computer Vision @ <a href="https://diffuse.ly/">Diffusely</a> </h4>
 
-<a href="https://rensortino.com/" target="_blank">
+
+<a style="text-decoration-line: none;"  href="https://rensortino.com/" target="_blank">
   <img src="https://img.shields.io/badge/rensortino.com-teal?style=for-the-badge&logo=arc" alt="Website Badge">
 </a>
-<a href="https://huggingface.co/rsortino" target="_blank">
+<a style="text-decoration-line: none;" href="https://huggingface.co/rsortino" target="_blank">
   <img src="https://img.shields.io/badge/Hugging_Face-black?style=for-the-badge&logo=huggingface" alt="HF Badge">
 </a>
-<a href="https://www.linkedin.com/in/renatosortino/" target="_blank">
+<a style="text-decoration-line: none;"  href="https://www.linkedin.com/in/renatosortino/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
 </a>
-<a href="https://medium.com/@rensortino" target="_blank">
+<a style="text-decoration-line: none;"  href="https://medium.com/@rensortino" target="_blank">
   <img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium" alt="Medium Badge">
 </a>
-<a href="https://scholar.google.com/citations?user=qFxl11AAAAAJ" target="_blank">
+<a style="text-decoration-line: none;"  href="https://scholar.google.com/citations?user=qFxl11AAAAAJ" target="_blank">
   <img src="https://img.shields.io/badge/Google_Scholar-white?style=for-the-badge&logo=google-scholar" alt="Static Badge">
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rensortino&label=Profile%20views&color=0eb45e&style=flat" alt="rensortino" /> </p>
+
+<a style="text-decoration: none;" href="https://www.linkedin.com/in/renatosortino/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
+</a>
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
